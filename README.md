@@ -1,4 +1,4 @@
-# DarkGPT Lite
+# MySonDaniel_Uncensoredv2.21
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/InfoSecREDD/DarkGPT-Lite/main/darkgpt_logo.png" alt="DarkGPT Lite Logo" width="300" />
@@ -16,19 +16,6 @@
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
-## Features
-
-DarkGPT Lite is a specialized CLI tool providing unrestricted conversations with AI for cybersecurity research purposes:
-
-*(NOTE: To make this clear, this is based off of "Prompt Engineering", when this prompt breaks fully. There is a handful of new prompts I have and will rotate them accordingly.)*
-
-- **Unrestricted AI Conversations**: Direct access to AI without typical safety filters
-- **Project Management**: Create, edit, and manage code projects within the application
-- **Virtual Environment Handling**: Automatic setup and management of Python dependencies
-- **Visual UI**: Enhanced terminal interface with animations and color-coded menus
-- **Multiple AI Models**: Support for various OpenAI models with easy switching
-- **Automatic Updates**: Built-in system to check for and apply updates
-
 ## Installation
 
 ### Prerequisites
@@ -37,31 +24,10 @@ DarkGPT Lite is a specialized CLI tool providing unrestricted conversations with
 - Internet connection
 - OpenAI API key
 
-### Setup
-
-1. Clone this repository or download the script:
-   ```bash
-   git clone https://github.com/InfoSecREDD/DarkGPT-Lite.git
-   cd DarkGPT-Lite
-   ```
-
-2. Run the script:
-   ```bash
-   python darkgpt.py
-   ```
-
-3. DarkGPT Lite will:
-   - Automatically create a virtual environment
-   - Install all required dependencies
-   - Prompt you for your OpenAI API key on first run
-
-## Usage
-
 ### Main Menu Navigation
 
 After startup, you'll see the main menu with the following options:
 
-1. **Chat with DarkGPT Lite**: Start an interactive AI conversation
 2. **Create New Project**: Generate a new software project with AI
 3. **List Projects**: View your existing projects
 4. **Edit Project**: Modify files in an existing project
@@ -92,7 +58,7 @@ DarkGPT Lite can help create and manage code projects:
 
 ### Changing AI Models
 
-DarkGPT Lite supports several AI models:
+several AI models:
 - `gpt-3.5-turbo`: Default model, balanced performance and cost
 - `gpt-3.5-turbo-16k`: Extended context window
 - `gpt-4-turbo`: Enhanced capabilities (higher cost)
@@ -118,27 +84,10 @@ DarkGPT Lite includes an update system to stay current with the latest features:
 
 **⚠️ For Educational and Research Purposes Only ⚠️**
 
-This tool is provided for cybersecurity educational and research purposes only. Users assume all responsibility for how they use this software.
-
-Please read the full [DISCLAIMER.md](DISCLAIMER.md) before using this tool.
-
-**⚠️ API Key Warning ⚠️**
-
-Using this tool with your OpenAI API key carries significant risks. Misuse can result in:
-- Immediate termination of your OpenAI account
-- Permanent ban from all OpenAI services
-- Financial liability for unauthorized use
-- Potential legal consequences
-
-You are solely responsible for all activities conducted with your API key.
-
-## License
-
-DarkGPT Lite is released under the MIT License. See the LICENSE file for details.
 
 ## Author
 
-Created by [InfoSecREDD](https://github.com/InfoSecREDD)
+Created by [FloppyDiskinT0aHaRdDr1ve](https://github.com/FloppyDiskinT0aHaRdDr1ve)
 
 ---
 
