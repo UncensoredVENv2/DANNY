@@ -1,7 +1,6 @@
 # MySonDaniel_Uncensoredv2.21
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/InfoSecREDD/DarkGPT-Lite/main/darkgpt_logo.png" alt="DarkGPT Lite Logo" width="300" />
 </p>
 
 <p align="center">
